@@ -10,9 +10,9 @@ Hands-on projects aligned with IT Infrastructure Management:
 - Monitoring & operational readiness
 
 ## Projects
-1) ITSM Runbooks Pack — https://github.com/morus86/itsm-runbooks-pack
-2) Infra Audit Starter Kit — (link soon)
-3) Windows Core Services Lab — (link soon)
+1. ITSM Runbooks Pack — https://github.com/morus86/itsm-runbooks-pack (includes case study)
+2. Infra Audit Starter Kit — (link soon)
+3. Windows Core Services Lab — (link soon)
 
 ## Principles
 - Practical and repeatable (runbooks + checklists)
